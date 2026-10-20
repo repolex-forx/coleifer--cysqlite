@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/cysqlite/commit/24fddb3bfffd5e6f8f3220c33961aea9abe59c50",
       "git:hexsha": "24fddb3bfffd5e6f8f3220c33961aea9abe59c50",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/cysqlite/commit/a2bae69ea6e78ec983da7c062fad58d7e9897d80",
